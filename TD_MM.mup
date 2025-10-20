@@ -1,0 +1,367 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Tower Defense",
+      "id": 1,
+      "attr": {
+        "position": [
+          -71,
+          -154,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Turrets",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": "Upgrades",
+              "id": 3,
+              "ideas": {
+                "1": {
+                  "title": "Currency upgrades (or exp upgrades)",
+                  "id": 6,
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "position": [
+                  130,
+                  -214,
+                  4
+                ]
+              }
+            },
+            "2": {
+              "title": "Different Types",
+              "id": 4,
+              "attr": {
+                "position": [
+                  63,
+                  45,
+                  3
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Single point damage",
+                  "id": 9,
+                  "attr": {
+                    "position": [
+                      121,
+                      -149,
+                      4
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "AOE damage",
+                  "id": 10,
+                  "attr": {
+                    "position": [
+                      145,
+                      -61,
+                      5
+                    ]
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Single point AOE",
+                      "id": 16
+                    },
+                    "2": {
+                      "title": "Full area AOE",
+                      "id": 17
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Support Turret",
+                  "id": 11,
+                  "ideas": {
+                    "1": {
+                      "title": "Boosting other turrets",
+                      "id": 12
+                    },
+                    "2": {
+                      "title": "Debuffing enemies",
+                      "id": 13
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      124,
+                      84,
+                      7
+                    ]
+                  }
+                },
+                "4": {
+                  "title": "(Optional) Entity spawning turret",
+                  "id": 14,
+                  "attr": {
+                    "position": [
+                      133,
+                      201,
+                      6
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              279,
+              -232,
+              6
+            ]
+          }
+        },
+        "2": {
+          "title": "Level desing",
+          "id": 26,
+          "attr": {
+            "position": [
+              122,
+              158,
+              12
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Enviroment",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "Enemy paths",
+                  "id": 28
+                },
+                "2": {
+                  "title": "Building placement",
+                  "id": 29,
+                  "ideas": {
+                    "1": {
+                      "title": "Turret placement",
+                      "id": 30,
+                      "ideas": {},
+                      "attr": {
+                        "position": [
+                          160,
+                          -51,
+                          4
+                        ]
+                      }
+                    },
+                    "2": {
+                      "title": "Economy building placement",
+                      "id": 35,
+                      "attr": {
+                        "position": [
+                          135,
+                          21,
+                          5
+                        ]
+                      }
+                    },
+                    "3": {
+                      "title": "Placement Style",
+                      "id": 37,
+                      "attr": {
+                        "position": [
+                          148,
+                          116,
+                          6
+                        ]
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Grid placement or Open placement",
+                          "id": 38
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      90,
+                      121,
+                      1
+                    ]
+                  }
+                },
+                "3": {
+                  "title": "Graphics",
+                  "id": 56,
+                  "ideas": {
+                    "1": {
+                      "title": "Fatasy",
+                      "id": 57
+                    },
+                    "2": {
+                      "title": "Low poly",
+                      "id": 58
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      110,
+                      329,
+                      2
+                    ]
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  97,
+                  -83,
+                  1
+                ]
+              }
+            },
+            "2": {
+              "title": "Enemy scaling",
+              "id": 42,
+              "attr": {
+                "position": [
+                  119,
+                  343,
+                  10
+                ]
+              }
+            },
+            "3": {
+              "title": "Turret scaling",
+              "id": 43,
+              "attr": {
+                "position": [
+                  102,
+                  428,
+                  9
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Upgrading turrets",
+                  "id": 44
+                },
+                "2": {
+                  "title": "Building new turrets",
+                  "id": 46
+                }
+              }
+            }
+          }
+        },
+        "-12": {
+          "title": "Money earning",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "From killing enemies",
+              "id": 21
+            },
+            "2": {
+              "title": "From buildings",
+              "id": 22
+            },
+            "3": {
+              "title": "From clearing waves",
+              "id": 23
+            }
+          },
+          "attr": {
+            "position": [
+              249,
+              -14,
+              15
+            ]
+          }
+        },
+        "-6": {
+          "title": "Economy buildings",
+          "id": 40,
+          "attr": {
+            "position": [
+              206,
+              -312,
+              13
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Farm",
+              "id": 41,
+              "attr": {}
+            }
+          }
+        },
+        "-22": {
+          "title": "Main Base",
+          "id": 47,
+          "attr": {
+            "position": [
+              273,
+              244.29998779296875,
+              16
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Hitpoints",
+              "id": 48
+            },
+            "2": {
+              "title": "Upgrades",
+              "id": 49,
+              "ideas": {
+                "1": {
+                  "title": "Healing",
+                  "id": 51
+                },
+                "2": {
+                  "title": "Defense turret",
+                  "id": 52
+                },
+                "3": {
+                  "title": "Max HP",
+                  "id": 53
+                },
+                "4": {
+                  "title": "Support function",
+                  "id": 54,
+                  "ideas": {
+                    "1": {
+                      "title": "Slow/AOE dmg",
+                      "id": 55
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      85,
+                      114,
+                      1
+                    ]
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  95,
+                  74,
+                  1
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Tower Defense",
+  "links": []
+}
